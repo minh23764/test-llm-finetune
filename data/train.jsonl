@@ -1,0 +1,60 @@
+{"instruction":"Bạn tên gì?","output":"Tôi là chatbot của Minh"}
+{"instruction":"2+2 bằng mấy?","output":"4"}
+{"instruction":"OOP là gì?","output":"Lập trình hướng đối tượng"}
+{"instruction":"Xin chào","output":"Chào bạn!"}
+{"instruction":"Hôm nay thời tiết thế nào?","output":"Mình không thể xem thời tiết trực tiếp, nhưng bạn có thể kiểm tra ứng dụng thời tiết hoặc trang web địa phương."}
+{"instruction":"Bạn làm được những gì?","output":"Tôi có thể trả lời câu hỏi, giúp học lập trình, viết mẫu mã và hỗ trợ tổng quát."}
+{"instruction":"Viết hàm Python cộng hai số","output":"def add(a, b): return a + b"}
+{"instruction":"Dịch 'hello' sang tiếng Việt","output":"xin chào"}
+{"instruction":"Tên thủ đô Việt Nam là gì?","output":"Hà Nội"}
+{"instruction":"Viết slogan ngắn cho cửa hàng bánh mì","output":"Bánh mì nóng — hương vị quê nhà"}
+{"instruction":"Tôi muốn học Python, bắt đầu từ đâu?","output":"Bắt đầu với biến, điều kiện, vòng lặp và hàm; làm các bài tập nhỏ mỗi ngày."}
+{"instruction":"Số nguyên tố là gì?","output":"Là số lớn hơn 1 chỉ chia hết cho 1 và chính nó."}
+{"instruction":"Cho ví dụ về list trong Python","output":"Ví dụ: [1, 2, 3, 'a']"}
+{"instruction":"Làm sao để cài package requests?","output":"Chạy pip install requests trong terminal."}
+{"instruction":"Tôi mệt, cho tôi lời khuyên","output":"Nghỉ ngơi, uống nước, ngủ đủ giấc và đi dạo nhẹ nhàng."}
+{"instruction":"Làm thế nào để học nhanh từ vựng tiếng Anh?","output":"Học theo nhóm từ, dùng flashcards, lặp lại cách quãng và thực hành giao tiếp."}
+{"instruction":"Viết ví dụ SQL chọn tất cả từ bảng users","output":"SELECT * FROM users;"}
+{"instruction":"Công thức tính diện tích hình tròn","output":"Diện tích = π * r * r"}
+{"instruction":"Gợi ý tên cho dự án app quản lý công việc","output":"TaskFlow, WorkMate, Taskly"}
+{"instruction":"Làm sao để debug lỗi Python?","output":"Dùng print/ logging, chạy trình gỡ lỗi (pdb), đọc traceback để tìm nguồn gốc lỗi."}
+{"instruction":"Cho ví dụ hàm đệ quy tính giai thừa","output":"def fact(n):\n    if n<=1: return 1\n    return n*fact(n-1)"}
+{"instruction":"Làm sao tối ưu hóa vòng lặp?","output":"Tránh thao tác tốn kém trong vòng lặp, dùng comprehension, dùng thư viện vector hóa như NumPy."}
+{"instruction":"Cho mẹo viết CV ấn tượng","output":"Tập trung thành tựu định lượng, dùng từ khóa phù hợp với mô tả công việc, giữ ngắn gọn."}
+{"instruction":"Gợi ý hoạt động giải trí cuối tuần","output":"Đi dã ngoại, đọc sách, thử công thức nấu mới, hoặc đi xem phim."}
+{"instruction":"Làm thế nào giảm stress?","output":"Tập thở sâu, thiền, vận động nhẹ, ngủ đủ và nói chuyện với bạn bè."}
+{"instruction":"Viết regexp kiểm tra email","output":"import re\\npattern = r'^[\\w\\.-]+@[\\w\\.-]+\\.\\w+$'"}
+{"instruction":"Giải thích MVC là gì","output":"MVC là mô hình phân tách Model (dữ liệu), View (giao diện), Controller (xử lý)."}
+{"instruction":"Bảo mật mật khẩu trong web app như thế nào?","output":"Dùng hashing (bcrypt), HTTPS, kiểm soát truy cập và giới hạn đăng nhập thất bại."}
+{"instruction":"Hướng dẫn cài node.js trên Windows","output":"Tải installer từ nodejs.org, chạy file .msi và làm theo hướng dẫn; kiểm tra bằng node -v."}
+{"instruction":"Viết mã JavaScript đảo chuỗi","output":"const reverse = s => s.split('').reverse().join('');"}
+{"instruction":"Một câu hỏi phỏng vấn: Explain polymorphism","output":"Polymorphism cho phép đối tượng khác nhau trả lời cùng một phương thức theo cách riêng của chúng."}
+{"instruction":"Làm sao backup cơ sở dữ liệu MySQL?","output":"Dùng mysqldump để xuất dữ liệu: mysqldump -u user -p dbname > backup.sql"}
+{"instruction":"Cách ghi log trong Python","output":"Dùng module logging: logging.basicConfig(level=logging.INFO)"}
+{"instruction":"Tôi cần một lời nhắc hàng ngày","output":"Đặt lịch trên điện thoại hoặc dùng cron/Task Scheduler để nhắc việc."}
+{"instruction":"Làm sao để deploy Flask app?","output":"Dùng Gunicorn/ uWSGI + Nginx, hoặc deploy trên Heroku, Render, hoặc Docker."}
+{"instruction":"Gợi ý tên miền ngắn cho blog công nghệ","output":"techbyte, codefeed, devsnap"}
+{"instruction":"Hướng dẫn cơ bản về Git","output":"git init, git add, git commit, git push; làm việc với branch: git checkout -b feature"}
+{"instruction":"Viết hàm kiểm tra số chẵn trong Python","output":"def is_even(n):\\n    return n % 2 == 0"}
+{"instruction":"Một lời khuyên ăn uống lành mạnh","output":"Ăn nhiều rau quả, hạn chế đồ chiên, uống đủ nước và ăn đều bữa."}
+{"instruction":"Tôi muốn học React, bước đầu nên làm gì?","output":"Học JSX, components, props, state; làm vài project nhỏ như todo app."}
+{"instruction":"Cách tối ưu SQL query","output":"Dùng index, tránh SELECT *, tối ưu JOIN, kiểm tra EXPLAIN plan."}
+{"instruction":"Viết hàm kiểm tra palindrome","output":"def is_pal(s):\\n    s = ''.join(c.lower() for c in s if c.isalnum())\\n    return s == s[::-1]"}
+{"instruction":"Gợi ý quà tặng sinh nhật cho bạn thân","output":"Một cuốn sách hay, trải nghiệm (vé xem), hoặc đồ handmade có ý nghĩa."}
+{"instruction":"Cách học thuật ngữ y khoa hiệu quả","output":"Sử dụng flashcards, liên kết hình ảnh, học theo hệ thống và lặp lại đều đặn."}
+{"instruction":"Viết script bash in ra 'Hello'","output":"#!/bin/bash\\necho \"Hello\""}
+{"instruction":"Tư vấn tên công ty startup công nghệ","output":"Nên ngắn, dễ phát âm, dễ nhớ và có sẵn tên miền; ví dụ: NovaTech, PixelEdge."}
+{"instruction":"Cách tạo virtualenv Python","output":"python -m venv venv\\nsource venv/bin/activate (Linux) hoặc venv\\\\Scripts\\\\Activate (Windows)"}
+{"instruction":"Gợi ý tên kênh YouTube về nấu ăn","output":"Những món nhà, Vị Quê, Bếp Nhỏ"}
+{"instruction":"Cho ví dụ về exception handling trong Python","output":"try:\\n    x = 1/0\\nexcept ZeroDivisionError:\\n    print('Không chia được cho 0')"}
+{"instruction":"Cách ghi chú code tốt","output":"Viết docstring cho hàm, comment mục tiêu logic phức tạp, giữ comment cập nhật."}
+{"instruction":"Viết đoạn CSS căn giữa khối","output":".center{ display:flex; justify-content:center; align-items:center; }"}
+{"instruction":"Tips để phỏng vấn kỹ thuật thành công","output":"Ôn thuật toán cơ bản, hiểu hệ thống, thực hành mã trên bảng trắng, chuẩn bị câu chuyện về dự án."}
+{"instruction":"Làm sao tiết kiệm chi tiêu cá nhân","output":"Lập ngân sách, theo dõi chi tiêu, giảm mua sắm không cần thiết, để tiền tiết kiệm tự động."}
+{"instruction":"Viết một mẫu email xin nghỉ phép","output":"Kính gửi [Tên],\\nTôi xin phép nghỉ từ [ngày] đến [ngày] vì [lý do].\\nTrân trọng,\\n[Tên bạn]"}
+{"instruction":"Cách học hiệu quả khi bị mất tập trung","output":"Chia thời gian học thành khoảng 25 phút, nghỉ 5 phút (Pomodoro), loại bỏ nguồn gây xao nhãng."}
+{"instruction":"Cho ví dụ SQL GROUP BY","output":"SELECT city, COUNT(*) FROM users GROUP BY city;"}
+{"instruction":"Giải thích basic authentication HTTP","output":"Basic auth gửi username:password base64 trong header Authorization; không an toàn nếu không dùng HTTPS."}
+{"instruction":"Viết snippet Python đọc file CSV","output":"import csv\\nwith open('data.csv') as f:\\n    reader = csv.reader(f)\\n    for row in reader:\\n        print(row)"}
+{"instruction":"Cách làm resume 1 trang","output":"Chọn nội dung quan trọng, dùng font nhỏ hợp lý, tóm tắt kinh nghiệm nổi bật, bỏ chi tiết không cần thiết."}
+{"instruction":"Gợi ý app giúp tập trung","output":"Forest, Pomodone, Focus@Will"}

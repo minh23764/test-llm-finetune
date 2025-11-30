@@ -1,9 +1,13 @@
 # file for Python dependencies
-# python -m venv venv
+# python -m venv venv311
 # venv\Scripts\activate
 # pip install -r requirements.txt
+torch
 transformers
 datasets
 peft
 accelerate
-bitsandbytes
+sentencepiece
+safetensors
+huggingface_hub
+
